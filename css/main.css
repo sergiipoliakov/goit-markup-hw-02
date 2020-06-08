@@ -259,14 +259,14 @@
     }
     /* Portfolio filter */
 
-    .portfolio-filter .link{
+    .portfolio-filter .filter-button{
         background-color: var(--secondary-background-color);
         color: var(--primary-text-color);
         text-decoration: none;
         
       }
-      .portfolio-filter .link:hover,
-      .portfolio-filter .link:focus {
+      .portfolio-filter .filter-button:hover,
+      .portfolio-filter .filter-button:focus {
         background-color: var(--accent-color);
         color: var(--primary-white-color);
       }
